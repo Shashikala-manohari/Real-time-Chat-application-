@@ -27,7 +27,7 @@ A modern **real-time chat application** built with **React** and **Firebase**. T
 - **Firebase Storage** – for storing avatars and image files
 
 
-## 🔗 System Architecture
+## System Architecture
 
 - **Firebase Authentication** handles login/register
 - **Firestore Database** stores user info, chat lists, and messages
